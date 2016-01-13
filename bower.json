@@ -1,0 +1,29 @@
+{
+  "name": "taaabs-trace-to-model",
+  "version": "1.0.0",
+  "description": "`<taaabs-trace-to-model>`.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "taaabs"
+  ],
+  "authors": [
+    "TaaabsTeam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaaabsElements/taaabs-trace-to-model.git"
+  },
+  "main": "taaabs-trace-to-model.html",
+  "license": "https://github.com/TaaabsElements/taaabs-trace-to-model/LICENSE",
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.0.0",
+		"taaabs-trace-to-model-behavior": "https://github.com/TaaabsElements/taaabs-trace-to-model-behavior.git",
+    "paper-button": "PolymerElements/paper-button"
+  },
+  "devDependencies": {
+    "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "ignore": []
+}
